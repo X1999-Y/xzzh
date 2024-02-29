@@ -1,4 +1,4 @@
-{"spider":":"./spider.jar;md5;aa6ee948740552fd1cf3346143ed85a2",
+{"spider":":"./spider.jar",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0},
@@ -25,7 +25,7 @@
 	{"key":"三四八","name":"三四八","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/三四八.json"},
 	{"key":"电影牛","name":"电影牛","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛.json"},
 	{"key":"爱奇艺","name":"爱奇艺","type":3,"api":"./JS/drpy.min.js","ext":"./JS/爱奇艺.js"},
-	{"key":"追剧迷","name":"追剧迷"，"type":3,"api":"./JS/drpy.min.js","ext":"./JS/追剧迷.js"},
+	{"key":"追剧迷","name":"追剧迷"，"type":3,"api":"./JS/drpy.min.js","ext":"./JS/追剧迷.js"}，
 	{"key":"看了么","name":"看了么","type":3,"api":"./JS/drpy.min.js","ext":"./JS/看了么.js"},
 	{"key":"五五五","name":"五五五","type":3,"api":"./JS/drpy.min.js","ext":"./JS/五五五.js"},
 	{"key":"达达龟","name":"达达龟","type":3,"api":"./JS/drpy.min.js","ext":"./JS/达达龟.js"},
